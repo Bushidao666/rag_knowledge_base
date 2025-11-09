@@ -1,0 +1,34 @@
+# ESTRUTURA DE DIRETÓRIOS A CRIAR
+
+## 17 Diretórios em 04-guias-prontos/:
+
+1. 00-Fundamentals/
+2. 01-Document-Processing/
+3. 02-Chunking-Strategies/
+4. 03-Embedding-Models/
+5. 04-Vector-Databases/
+6. 05-Retrieval-Optimization/
+7. 06-Evaluation-Benchmarks/
+8. 07-Performance-Optimization/
+9. 08-Advanced-Patterns/
+10. 09-Architecture-Patterns/
+11. 10-Frameworks-Tools/
+12. 11-Production-Deployment/
+13. 12-Troubleshooting/
+14. 13-Use-Cases/
+15. 14-Case-Studies/
+16. 15-Future-Trends/
+17. 16-Resources/
+
+Cada diretório deve ter:
+- README.md
+- getting-started/
+- tutorials/
+- implementation/
+- best-practices/
+- code-examples/
+- benchmarks/
+- decision-trees/
+- troubleshooting/
+- resources/
+

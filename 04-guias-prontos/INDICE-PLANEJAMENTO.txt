@@ -1,0 +1,40 @@
+# PLANEJAMENTO DOS GUIAS PRÁTICOS - ÍNDICE
+
+## 📁 ARQUIVOS CRIADOS
+
+1. PLANEJAMENTO.md
+   - Priorização dos 17 guias
+   - Timeline de 10 semanas
+   - Deliverables finais
+
+2. MAPEAMENTO-ARQUIVOS-POR-GUIA.md
+   - Mapeamento detalhado: Relatórios → Guias
+   - Code examples a adaptar
+   - Conteúdo a extrair
+
+3. RESUMO-EXECUTIVO-PLANEJAMENTO.md
+   - Visão geral completa
+   - Estrutura de cada guia
+   - Métricas e critérios
+
+4. DIRETORIOS-A-CRIAR.txt
+   - Lista dos 17 diretórios
+   - Subdiretórios por guia
+
+## 📊 RESUMO ESTATÍSTICO
+
+- **Total Guias**: 17
+- **Total Relatórios**: 17 (348+ páginas)
+- **Total Code Examples**: 85+ (27 existentes + 58+ novos)
+- **Total Decision Trees**: 30+
+- **Total Troubleshooting**: 100+ issues
+- **Timeline**: 10 semanas
+- **Fases**: 5 (Tier 1 a Tier 5)
+
+## 🎯 PRÓXIMO PASSO
+
+APROVAÇÃO DO PLANEJAMENTO para início da execução pela Semana 1.
+
+---
+Data: 09/11/2025
+Versão: 1.0
